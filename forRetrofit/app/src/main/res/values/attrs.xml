@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TestView">
+        <attr name="myColor" format="color"/>
+        <!-- 这里TextView 是View名字，然后name是名字，format是属性-->
+    </declare-styleable>
+</resources>
